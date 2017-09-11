@@ -1,4 +1,4 @@
-function fizzbuzz() {
+function fizzbuzzList() {
   var fizzbuzzArray = []
   for (var num = 1; num <= 100; num++) {
     fizzbuzzArray.push(setFizzBuzzValue(num))
@@ -24,6 +24,6 @@ function isMultiple(num, multiple) {
   }
 }
 
-module.exports = fizzbuzz();
+module.exports = fizzbuzzList();
 
-console.log(fizzbuzz())
+console.log(fizzbuzzList())
