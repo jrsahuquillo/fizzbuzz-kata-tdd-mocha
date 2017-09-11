@@ -1,0 +1,11 @@
+{
+  "name": "fizzbuzz-kata",
+  "version": "1.0.0",
+  "description": "Fizz Buzz Kata with TDD",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sahu",
+  "license": "ISC"
+}
